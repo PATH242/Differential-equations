@@ -7,6 +7,6 @@ To solve an initial value differential equation problem, this projects has:
 4) Analytical solution/ exact solution
 
 * This project contains a GUI that plots the results of these methods and their errors.
-* It allows the user to change the values of Xnode and X from the GUI
+* It allows the user to change the values of Xnode, X, and N from the GUI
 * It allows the user to choose which methods they want to see plottted
 

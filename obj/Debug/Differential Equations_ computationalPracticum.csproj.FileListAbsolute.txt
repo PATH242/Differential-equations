@@ -1,0 +1,10 @@
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\bin\Debug\Differential Equations_ ODE approximation and actual answer.exe.config
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\bin\Debug\Differential Equations_ ODE approximation and actual answer.exe
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\bin\Debug\Differential Equations_ ODE approximation and actual answer.pdb
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\obj\Debug\Differential_Equations__ODE_approximation_and_actual_answer.Form1.resources
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\obj\Debug\Differential_Equations__ODE_approximation_and_actual_answer.Properties.Resources.resources
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\obj\Debug\Differential Equations_ computationalPracticum.csproj.GenerateResource.cache
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\obj\Debug\Differential Equations_ computationalPracticum.csproj.CoreCompileInputs.cache
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\obj\Debug\Differential Equations_ ODE approximation and actual answer.exe
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\obj\Debug\Differential Equations_ ODE approximation and actual answer.pdb
+D:\Differential Equations_ ODE approximation and actual answer\Differential Equations_ ODE approximation and actual answer\obj\Debug\Differential_Equations_computationalPracticum.Form1.resources
